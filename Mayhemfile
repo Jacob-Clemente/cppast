@@ -1,0 +1,5 @@
+project: cppast
+target: cppast
+
+cmds:
+  - cmd: /cppast @@
